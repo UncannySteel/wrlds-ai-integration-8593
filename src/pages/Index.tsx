@@ -2,7 +2,7 @@
 import PageLayout from '@/components/PageLayout';
 import Hero from '@/components/Hero';
 import Features from '@/components/Features';
-import Projects from '@/components/Projects';
+
 import WhyWrlds from '@/components/WhyWrlds';
 
 import SEO from '@/components/SEO';
@@ -29,7 +29,7 @@ const Index = () => {
       <Hero />
       <Features />
       <WhyWrlds />
-      <Projects />
+      
       
     </PageLayout>
   );
