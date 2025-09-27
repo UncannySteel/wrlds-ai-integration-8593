@@ -37,7 +37,7 @@ const Blog = () => {
           
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Under Construction</h2>
           <p className="text-lg text-gray-600 max-w-md">
-            We're working hard to bring you the latest news and insights about smart textile technology. Check back soon!
+            We're working hard to bring you the latest news and insights about eco design and innovative solutions. Check back soon!
           </p>
           
           {/* Simple decorative elements */}
