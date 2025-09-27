@@ -53,9 +53,7 @@ const Hero = () => {
         <div className="banner-overlay bg-transparent absolute inset-0 flex items-end pb-16 md:pb-20">
           <div className="w-full px-4 sm:px-6 lg:px-8">
             <motion.div variants={itemVariants} className="-bottom-0 \xA7">
-              <motion.h1 variants={itemVariants} className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-white leading-tight text-left">
-                Turning Visions Into Connected Reality
-              </motion.h1>
+              <motion.h1 variants={itemVariants} className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-white leading-tight text-left">Partner for Sustainable Solutions</motion.h1>
               <motion.p variants={itemVariants} className="text-lg sm:text-xl text-gray-300 mt-4 sm:mt-6 md:text-base text-left">
                 7+ years building IoT products that combine hardware engineering, software & AI, and production scale.
               </motion.p>
